@@ -1,0 +1,32 @@
+_repo: Farm-Boys-and-Girls_39483
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McKeever, William A. (William Arch)
+    aliases:
+    - McKeever, W. A. (William Arch)
+    - McKeever, William Arch
+    birthdate: 1868
+    deathdate: 1940
+    gutenberg_agent_id: '40042'
+    url: http://www.gutenberg.org/2009/agents/40042
+description: ''
+gutenberg_issued: '2012-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39483'
+  lccn: '12005544'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys'
+- !lcc 'S'
+- !lcsh 'Farm life'
+- !lcsh 'Girls'
+title: Farm Boys and Girls
+url: http://www.gutenberg.org/ebooks/39483
